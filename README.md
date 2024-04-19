@@ -1,6 +1,6 @@
 # MERN Authentication
 
-Reusable code authentication general code
+Reusable authentication code
 
 ## Installation
 
